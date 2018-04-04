@@ -13,4 +13,5 @@ make configure
 
 make all doc info
 sudo make install install-doc install-html install-info
+
 git --version

@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "Hello Would!"
+echo "Hello Would"
 exit 0
